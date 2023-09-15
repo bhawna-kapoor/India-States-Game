@@ -1,2 +1,4 @@
 # India-States-Game
-A game of the Indian States using turtle and pandas
+Can you name all the 28 states of India? Let's find out 🙌. Download the game and start playing! 
+
+## Used pandas and turtle
